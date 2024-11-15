@@ -31,6 +31,10 @@ nav ul li a {
   text-decoration: none;
   color: #333;
   font-weight: bold;
+  transition: color 0.3s ease;
+}
+nav ul li a:hover {
+  color: #3aaa35;
 }
 
 .banner {
